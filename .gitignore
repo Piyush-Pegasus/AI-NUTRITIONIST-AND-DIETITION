@@ -1,0 +1,18 @@
+nutri/
+# Exclude directories
+datasets/
+nutrition-fitbot.v3-colorized_version.yolov8/
+faiss_index/
+runs/
+Indian Food Yolov5.v3i.yolov8/
+
+# Exclude specific files
+diet.py
+FinalOutput.pdf
+nutrients_csvfile.csv
+yolo_train.ipynb
+your_data.csv
+Z131.pdf
+homepage.py
+csvtodf.py
+.env
